@@ -1,0 +1,31 @@
+﻿  AIChess.cpp
+C:\Users\alexi\Desktop\Chess\AIChess\Board.h(17,15): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+  (compiler le fichier source 'AIChess.cpp')
+  
+C:\Users\alexi\Desktop\Chess\AIChess\GameManager.h(144,20): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+  (compiler le fichier source 'AIChess.cpp')
+  
+C:\Users\alexi\Desktop\Chess\AIChess\AIChess.cpp(154,8): warning C4244: 'argument' : conversion de 'double' en '_Ty', perte possible de données
+C:\Users\alexi\Desktop\Chess\AIChess\AIChess.cpp(154,8): warning C4244:         with
+C:\Users\alexi\Desktop\Chess\AIChess\AIChess.cpp(154,8): warning C4244:         [
+C:\Users\alexi\Desktop\Chess\AIChess\AIChess.cpp(154,8): warning C4244:             _Ty=float
+C:\Users\alexi\Desktop\Chess\AIChess\AIChess.cpp(154,8): warning C4244:         ]
+C:\Users\alexi\Desktop\Chess\AIChess\AIChess.cpp(153,59): warning C4244: 'argument' : conversion de 'double' en '_Ty', perte possible de données
+C:\Users\alexi\Desktop\Chess\AIChess\AIChess.cpp(153,59): warning C4244:         with
+C:\Users\alexi\Desktop\Chess\AIChess\AIChess.cpp(153,59): warning C4244:         [
+C:\Users\alexi\Desktop\Chess\AIChess\AIChess.cpp(153,59): warning C4244:             _Ty=float
+C:\Users\alexi\Desktop\Chess\AIChess\AIChess.cpp(153,59): warning C4244:         ]
+C:\Users\alexi\Desktop\Chess\AIChess\AIChess.cpp(207,72): warning C4267: 'argument' : conversion de 'size_t' en '_Ty', perte possible de données
+C:\Users\alexi\Desktop\Chess\AIChess\AIChess.cpp(207,72): warning C4267:         with
+C:\Users\alexi\Desktop\Chess\AIChess\AIChess.cpp(207,72): warning C4267:         [
+C:\Users\alexi\Desktop\Chess\AIChess\AIChess.cpp(207,72): warning C4267:             _Ty=int
+C:\Users\alexi\Desktop\Chess\AIChess\AIChess.cpp(207,72): warning C4267:         ]
+C:\Users\alexi\Desktop\Chess\AIChess\AIChess.cpp(468,45): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\alexi\Desktop\Chess\AIChess\AIChess.cpp(468,33): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\alexi\Desktop\Chess\AIChess\AIChess.cpp(473,20): warning C4018: '<' : incompatibilité signed/unsigned
+  Génération de code en cours
+  Fin de la génération du code
+  229 of 2651 functions ( 8.6%) were compiled, the rest were copied from previous compilation.
+    175 functions were new in current compilation
+    284 functions had inline decision re-evaluated but remain unchanged
+  AIChess.vcxproj -> C:\Users\alexi\Desktop\Chess\AIChess\x64\Release\AIChess.exe

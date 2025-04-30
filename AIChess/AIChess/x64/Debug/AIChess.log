@@ -1,0 +1,18 @@
+﻿  AIChess.cpp
+C:\Users\alexi\Desktop\Chess\AIChess\Board.h(17,15): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+  (compiler le fichier source 'AIChess.cpp')
+  
+C:\Users\alexi\Desktop\Chess\AIChess\GameManager.h(144,20): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+  (compiler le fichier source 'AIChess.cpp')
+  
+C:\Users\alexi\Desktop\Chess\AIChess\AIChess.cpp(130,14): warning C4244: 'argument' : conversion de 'double' en '_Ty', perte possible de données
+C:\Users\alexi\Desktop\Chess\AIChess\AIChess.cpp(130,14): warning C4244:         with
+C:\Users\alexi\Desktop\Chess\AIChess\AIChess.cpp(130,14): warning C4244:         [
+C:\Users\alexi\Desktop\Chess\AIChess\AIChess.cpp(130,14): warning C4244:             _Ty=float
+C:\Users\alexi\Desktop\Chess\AIChess\AIChess.cpp(130,14): warning C4244:         ]
+C:\Users\alexi\Desktop\Chess\AIChess\AIChess.cpp(129,62): warning C4244: 'argument' : conversion de 'double' en '_Ty', perte possible de données
+C:\Users\alexi\Desktop\Chess\AIChess\AIChess.cpp(129,62): warning C4244:         with
+C:\Users\alexi\Desktop\Chess\AIChess\AIChess.cpp(129,62): warning C4244:         [
+C:\Users\alexi\Desktop\Chess\AIChess\AIChess.cpp(129,62): warning C4244:             _Ty=float
+C:\Users\alexi\Desktop\Chess\AIChess\AIChess.cpp(129,62): warning C4244:         ]
+  AIChess.vcxproj -> C:\Users\alexi\Desktop\Chess\AIChess\x64\Debug\AIChess.exe
