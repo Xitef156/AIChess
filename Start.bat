@@ -1,3 +1,3 @@
-cd ./AIChess/x64/Release/
+cd ./AIChess/
 AIChess.exe
 pause
